@@ -1,1 +1,1 @@
-# Crypto_Price_Analysis
+# Stock Price Analysis
