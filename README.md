@@ -1,1 +1,2 @@
-# Stock Price Analysis
+# Reddit Sentiment Analysis
+-----------------------------------
